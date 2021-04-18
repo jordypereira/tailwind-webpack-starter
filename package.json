@@ -21,7 +21,7 @@
   "author": "Jordy Pereira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/perjor/tailwind-webpack-starter//issues"
+    "url": "https://github.com/perjor/tailwind-webpack-starter/issues"
   },
   "homepage": "https://github.com/perjor/tailwind-webpack-starter/#readme",
   "devDependencies": {
