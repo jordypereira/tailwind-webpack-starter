@@ -1,0 +1,1 @@
+Webpack is used as a dev server and a way to compile tailwindcss.
