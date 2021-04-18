@@ -16,7 +16,9 @@
   "keywords": [
     "template",
     "tailwind",
-    "webpack"
+    "webpack",
+    "simple",
+    "html"
   ],
   "author": "Jordy Pereira",
   "license": "ISC",
