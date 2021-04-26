@@ -7,8 +7,9 @@ Webpack is used as a dev server and a way to compile tailwindcss.
 ## Goal:
 - Simple HTML web page
 - Dev server with HMR
-- Tailwind
+- Tailwind (Edit inside devtools and intellisense)
 - Autoprefixer
 
 ## Todo
-- Find a way to import html blocks
+- Find a way to import html blocks (POST-HTML?)
+- Try out Windicss
